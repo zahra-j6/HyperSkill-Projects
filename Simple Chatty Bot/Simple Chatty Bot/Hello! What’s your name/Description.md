@@ -1,4 +1,4 @@
-# Chatty Bot welcomes you
+# Chatty Bot welcomes you  (Stage 1)
  Medium
  3
 ## Description
