@@ -1,4 +1,4 @@
-# Keep track of the supplies
+# Keep track of the supplies (Stage 5)
  Hard
  
  ## Description
