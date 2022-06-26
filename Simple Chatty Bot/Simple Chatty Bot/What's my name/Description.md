@@ -1,4 +1,4 @@
-# Print your name
+# Print your name  (Stage 2)
  Medium
 
 ## Description
