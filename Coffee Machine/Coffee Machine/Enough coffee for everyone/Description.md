@@ -1,4 +1,4 @@
-# Estimate the number of servings
+# Estimate the number of servings (Stage 3)
  Hard
  
 ## Description
